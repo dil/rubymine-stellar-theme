@@ -19,6 +19,6 @@ More directions here...
 [RubyMine Extensions and Themes](http://devnet.jetbrains.net/docs/DOC-1154)
 
 Screenshot:
-![A screenshot of the stellar theme for RubyMine](/christianbradley/rubymine-stellar-theme/raw/master/screenshot.png "Screenshot")
+![A screenshot of the stellar theme for RubyMine](/dil/rubymine-stellar-theme/raw/master/screenshot.png "Screenshot")
 
 Enjoy!
